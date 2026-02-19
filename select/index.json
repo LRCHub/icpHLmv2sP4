@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "rural",
+  "base_artist": "前髪ぱっつん少年",
+  "createdAt": "2026-02-19T16:06:00.390197Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dead + Rural",
+      "artist": "Handsome Furs",
+      "has_synced": true,
+      "path": "select/01_Dead_+_Rural_Handsome_Furs.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rural Route",
+      "artist": "John Mellencamp",
+      "has_synced": true,
+      "path": "select/02_Rural_Route_John_Mellencamp.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rural",
+      "artist": "Jeanne Cherhal",
+      "has_synced": false,
+      "path": "select/03_Rural_Jeanne_Cherhal.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Magnetic Media Storage Practices of Rural Pakistan",
+      "artist": "Emperor X",
+      "has_synced": false,
+      "path": "select/04_The_Magnetic_Media_Storage_Practices_of_Rural_Pakistan_Emperor_X.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rural Route #3",
+      "artist": "Dean Brody",
+      "has_synced": true,
+      "path": "select/05_Rural_Route__3_Dean_Brody.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rural Team",
+      "artist": "Jarfaiter",
+      "has_synced": false,
+      "path": "select/06_Rural_Team_Jarfaiter.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Baladinha Rural (Ao Vivo)",
+      "artist": "US Agroboy",
+      "has_synced": true,
+      "path": "select/07_Baladinha_Rural_(Ao_Vivo)_US_Agroboy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Baladinha Rural - Ao Vivo",
+      "artist": "US Agroboy",
+      "has_synced": true,
+      "path": "select/08_Baladinha_Rural_-_Ao_Vivo_US_Agroboy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Género Rural (feat. Rulaz Plazco)",
+      "artist": "Alcolirykoz",
+      "has_synced": true,
+      "path": "select/09_Género_Rural_(feat._Rulaz_Plazco)_Alcolirykoz.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rural Route",
+      "artist": "Chris Knight",
+      "has_synced": false,
+      "path": "select/10_Rural_Route_Chris_Knight.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rural Route (Album Version)",
+      "artist": "John Mellencamp",
+      "has_synced": true,
+      "path": "select/11_Rural_Route_(Album_Version)_John_Mellencamp.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Turismo Rural (Resident Evil Village Rap)",
+      "artist": "Keyblade",
+      "has_synced": false,
+      "path": "select/12_Turismo_Rural_(Resident_Evil_Village_Rap)_Keyblade.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "rural",
+      "artist": "前髪ぱっつん少年",
+      "has_synced": false,
+      "path": "select/pl_01_rural_前髪ぱっつん少年.txt"
+    }
+  ]
+}
